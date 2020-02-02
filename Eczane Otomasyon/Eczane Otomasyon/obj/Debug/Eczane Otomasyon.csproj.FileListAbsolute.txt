@@ -1,0 +1,60 @@
+c:\users\r2d2\documents\visual studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\bin\Debug\Eczane Otomasyon.exe.config
+c:\users\r2d2\documents\visual studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\bin\Debug\Eczane Otomasyon.exe
+c:\users\r2d2\documents\visual studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\bin\Debug\Eczane Otomasyon.pdb
+c:\users\r2d2\documents\visual studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane Otomasyon.csprojResolveAssemblyReference.cache
+c:\users\r2d2\documents\visual studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.Form1.resources
+c:\users\r2d2\documents\visual studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.Properties.Resources.resources
+c:\users\r2d2\documents\visual studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane Otomasyon.csproj.GenerateResource.Cache
+c:\users\r2d2\documents\visual studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane Otomasyon.exe
+c:\users\r2d2\documents\visual studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane Otomasyon.pdb
+c:\users\r2d2\documents\visual studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.hasta_kayit.resources
+c:\users\r2d2\documents\visual studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.ilac_kayit.resources
+C:\Users\R2D2\Documents\Visual Studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.recete.resources
+C:\Users\R2D2\Documents\Visual Studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.firma_bilgiler.resources
+C:\Users\R2D2\Documents\Visual Studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.ilac_liste.resources
+C:\Users\R2D2\Documents\Visual Studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.hasta_liste.resources
+C:\Users\R2D2\Documents\Visual Studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.firma_ekle.resources
+C:\Users\R2D2\Documents\Visual Studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.fatura.resources
+C:\Users\R2D2\Documents\Visual Studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.recetesiz.resources
+C:\Users\R2D2\Documents\Visual Studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.hasta_guncelle.resources
+C:\Users\R2D2\Documents\Visual Studio 2015\Projects\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.giris.resources
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\bin\Debug\Eczane Otomasyon.exe.config
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\bin\Debug\Eczane Otomasyon.exe
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\bin\Debug\Eczane Otomasyon.pdb
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane Otomasyon.csprojAssemblyReference.cache
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.fatura.resources
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.firma_bilgiler.resources
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.firma_ekle.resources
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.Form1.resources
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.giris.resources
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.hasta_guncelle.resources
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.hasta_kayit.resources
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.hasta_liste.resources
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.ilac_kayit.resources
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.ilac_liste.resources
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.Properties.Resources.resources
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.recete.resources
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.recetesiz.resources
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane Otomasyon.csproj.GenerateResource.cache
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane Otomasyon.exe
+C:\Users\Alper\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane Otomasyon.pdb
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\bin\Debug\Eczane Otomasyon.exe.config
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\bin\Debug\Eczane Otomasyon.exe
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\bin\Debug\Eczane Otomasyon.pdb
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane Otomasyon.csprojAssemblyReference.cache
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.fatura.resources
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.firma_bilgiler.resources
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.firma_ekle.resources
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.Form1.resources
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.giris.resources
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.hasta_guncelle.resources
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.hasta_kayit.resources
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.hasta_liste.resources
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.ilac_kayit.resources
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.ilac_liste.resources
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.Properties.Resources.resources
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.recete.resources
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane_Otomasyon.recetesiz.resources
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane Otomasyon.csproj.GenerateResource.cache
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane Otomasyon.exe
+C:\Users\oguzhan\Desktop\Eczane Otomasyon\Eczane Otomasyon\obj\Debug\Eczane Otomasyon.pdb
